@@ -8,7 +8,7 @@
   - [Practicing Cesar Cipher](https://github.com/akiwadajp/Cesar-Cipher)
 
 
-<h2>YouTube</h2>
+<h2>YouTube:</h2>
 
 <h2> Socials:</h2>
 
