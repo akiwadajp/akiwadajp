@@ -4,7 +4,7 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Ceasar Cipher (AlgoExpert)</b>
+- <b>Ceasar Cipher (Cryptography)</b>
   - [Practicing Cesar Cipher](https://github.com/akiwadajp/Cesar-Cipher)
 
 
