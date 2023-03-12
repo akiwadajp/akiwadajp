@@ -1,11 +1,11 @@
-<h1>Hi, my name is Aki and I am a graduate student studying IT! <br/><a href="https://github.com/akiwadajp">Projects</a>, <a href="https://www.linkedin.com/in/akiwada/">Cybersecurity Student</a>, <a href="https://www.youtube.com/@akiwadacyber">YouTube</a></h1>
+<h1>Aki Wada <br/><a href="https://github.com/akiwadajp">Projects</a>, <a href="https://www.linkedin.com/in/akiwada/">Cybersecurity Student</a>, <a href="https://www.youtube.com/@akiwadacyber">YouTube</a></h1>
 
 <h2>Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Cesar Cipher (AlgoExpert)</b>
-  - [Practicing Cesar Cipher](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Practicing Cesar Cipher](https://github.com/akiwadajp/cesar-cipher)
 
 
 <h2>YouTube</h2>
