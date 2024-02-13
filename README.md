@@ -2,11 +2,10 @@
 
 <h2>Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Ceasar Cipher (Cryptography)</b>
   - [Practicing Cesar Cipher](https://github.com/akiwadajp/Caesar-Cipher)
-
+- <b>Build Your Own Alexa via Python</b>
+  - [Building Your Own Alexa Using Python](https://github.com/akiwadajp/BYO-Alexa-via-Python)
 
 <h2>YouTube:</h2>
 
